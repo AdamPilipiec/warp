@@ -9,4 +9,4 @@ dotnet run
 ## Kontakt
 Autor: Student
 ## Kontakt
-Autor: Student
+Zespół: Warsztat Programisty
